@@ -1,4 +1,4 @@
-import structlog
+import structlog #New comment
 import os
 from rest_framework.views import APIView
 from rest_framework.response import Response
