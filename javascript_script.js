@@ -4,3 +4,4 @@ const num=12;
 const num2 = 100*num;
 
 console.log("Number is: "+num2);
+console.log("This is the end.")
